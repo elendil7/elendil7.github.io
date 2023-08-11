@@ -1,0 +1,4 @@
+baseURL = 'http://elendil.tech/'
+languageCode = 'en-gb'
+title = "Elendil's Blog"
+theme = 'ananke'
